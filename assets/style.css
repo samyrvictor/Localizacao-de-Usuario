@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    height: 100vh;
+    background: linear-gradient(120deg, #ffe53bd8, #ff2525da);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    text-align: center;
+    padding: 15px;
+    background-color: black;
+    color: white;
+}
+h2{
+    background-color: black;
+    padding: 10px;
+    color: white;
+    margin: 8px;
+    text-align: center;
+    font-size: 18px;
+}
+#map { 
+    margin: auto;
+    border-radius: 2px;
+    height: 400px;
+    width: 500px; 
+}
